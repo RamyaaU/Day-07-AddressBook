@@ -7,7 +7,7 @@ namespace Day_07_AddressBook
     class AddressBook
     {
         /// <summary>
-        /// Adds the contact.
+        /// Adds the contact in addresssbook
         /// </summary>
         public void AddContact()
         {
