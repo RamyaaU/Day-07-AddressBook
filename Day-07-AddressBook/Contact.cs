@@ -103,7 +103,7 @@ namespace Day_07_AddressBook
         /// <returns></returns>
         public int GetZip()
         {
-            return zip;
+            return zipcode;
         }
         /// <summary>
         /// Sets the first name.
